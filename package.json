@@ -1,0 +1,19 @@
+{
+  "name": "conwaygameoflife-nathanaelsoulard-cdof5",
+  "version": "1.0.0",
+  "description": "Conway Game of Life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanaelSld/ConwayGameOfLife-NathanaelSoulard-CDOF5.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NathanaelSld/ConwayGameOfLife-NathanaelSoulard-CDOF5/issues"
+  },
+  "homepage": "https://github.com/NathanaelSld/ConwayGameOfLife-NathanaelSoulard-CDOF5#readme"
+}
