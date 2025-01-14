@@ -6,7 +6,7 @@
 //  - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 //
 // Alive cells will be represented by # and dead cells will be represented by .
-console.log("Conway's Game of Life");
+console.log("Conway's Game of Life, one of the best game ever created, now with a 10*10 grid.");
 
 const ALIVE = '#';
 const DEAD = '.';
@@ -69,7 +69,7 @@ function nextGeneration(grid) {
 }
 
 // Example usage
-let grid = createGrid(5, 5);
+let grid = createGrid(10, 10);
 grid[1][2] = ALIVE;
 grid[2][2] = ALIVE;
 grid[3][2] = ALIVE;
